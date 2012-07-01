@@ -3,6 +3,7 @@
   - yaml
 
 :hierarchy:
+  - hosts/%{fqdn}
   - common
 
 :yaml:
